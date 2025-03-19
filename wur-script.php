@@ -604,7 +604,7 @@ class WP_URL_Replacer {
 		echo '<div class="footer">
 		WordPress URL Replacer v.1.0 &#8226;
 		Development by <a href="https://inwebpress.com/" target="_blank">InwebPress</a> &#8226;
-		Script on <a href="https://inwebpress.com/" target="_blank">GitHub</a>
+		Script on <a href="https://github.com/pekarskyi/wordpress-url-replacer" target="_blank">GitHub</a>
 		</div>';
         echo '</div>
         </body>
