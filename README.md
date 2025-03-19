@@ -8,7 +8,9 @@ This script replaces URLs in the WordPress database.
 ![https://github.com/pekarskyi/assets/raw/master/wordpress-url-replacer/wur-script.png](https://github.com/pekarskyi/assets/raw/master/wordpress-url-replacer/wur-script.png)
 
 ## Install
-- It can be uploaded to the root directory of your WordPress installation.
+1. It can be uploaded to the root directory of your WordPress installation.
+2. In the address bar of your browser, enter https://your_domain/wur-script.php
+
 
 ## Changelog
 
