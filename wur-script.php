@@ -4,6 +4,13 @@
  *
  * This script replaces URLs in the WordPress database.
  * It can be uploaded to the root directory of your WordPress installation.
+ * 
+ * @package WordPress URL Replacer
+ * @version 1.0
+ * @author InwebPress
+ * @authorURI https://inwebpress.com/
+ * @link https://github.com/pekarskyi/wordpress-url-replacer
+ * @license https://www.gnu.org/licenses/gpl-3.0.html
  */
 
 // Prevent direct access to this file
