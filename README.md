@@ -1,6 +1,10 @@
 # WordPress URL Replacer
 
-This script replaces URLs in the WordPress database.
+WordPress URL Replacer is a simple yet powerful tool for instantly replacing any URLs directly in your site's database. No complicated settings or plugins — just fast, simple, and effective.
+
+It’s perfect for website migrations, domain changes, or fixing broken links after a site transfer. The script helps you quickly find and replace old URLs in all important WordPress tables — from content to settings.
+
+It supports search and replace in both serialized arrays and regular text fields. The perfect solution for developers, freelancers, and anyone who values their time. In just a few minutes — a clean result with no hassle!
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pekarskyi/wordpress-url-replacer?style=for-the-badge)](https://GitHub.com/pekarskyi/wordpress-url-replacer/releases/)
 
