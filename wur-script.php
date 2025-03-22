@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress URL Replacer
+ * IP WordPress URL Replacer
  *
  * This script replaces URLs in the WordPress database.
  * It can be uploaded to the root directory of your WordPress installation.
@@ -352,7 +352,7 @@ class WP_URL_Replacer {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>WordPress URL Replacer</title>
+            <title>IP WordPress URL Replacer</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
@@ -461,7 +461,7 @@ class WP_URL_Replacer {
         </head>
         <body>
             <div class="container">
-                <h1>WordPress URL Replacer</h1>
+                <h1>IP WordPress URL Replacer</h1>
                 <p>This script helps you replace URLs in your WordPress database.</p>';
     }
 
