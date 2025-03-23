@@ -13,7 +13,7 @@ It supports search and replace in both serialized arrays and regular text fields
 
 ## Install
 1. It can be uploaded to the root directory of your WordPress installation.
-2. In the address bar of your browser, enter https://your_domain/wur-script.php
+2. In the address bar of your browser, enter `https://your_domain/wur-script.php`
 
 ## Changelog
 
